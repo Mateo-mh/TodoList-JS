@@ -113,3 +113,8 @@ body{
     text-decoration: line-through;
     color : var(--blue-light);
 } 
+
+footer{
+    color: white;
+    text-align: center;
+}
